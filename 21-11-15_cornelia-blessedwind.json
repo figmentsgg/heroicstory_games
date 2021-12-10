@@ -1,0 +1,45 @@
+{
+  "heroName": "Cornelia Blessedwind",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Protagonist Has Ongoing Struggle - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Dream Inside - T.A.L.K."
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - L.E.A.R.N."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Darkness Descends - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In Plan - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "VICTORY or DEFEAT - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Lesson Learned - L.I.Z.A.R.D."
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Breaking the tie - O.U.T.R.O."
+    }
+  ]
+}

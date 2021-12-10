@@ -1,0 +1,45 @@
+{
+  "heroName": "Fantasia Blossom",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Protagonist Has Ongoing Struggle - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Dream Inside - S.W.O.R.D."
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - B.R.O.K.E.N."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Darkness Descends - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In Plan - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "VICTORY or DEFEAT - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Lesson Learned - G.I.V.E."
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Breaking the tie - O.U.T.R.O."
+    }
+  ]
+}

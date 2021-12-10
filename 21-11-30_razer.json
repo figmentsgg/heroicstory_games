@@ -1,0 +1,45 @@
+{
+  "heroName": "Razer",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Protagonist Has Ongoing Struggle - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Dream Inside - U.P.S.H.O.T."
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - H.E.L.P.E.D."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Darkness Descends - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In Plan - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "VICTORY or DEFEAT - T.H.E.R.A.P.Y."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned - 8 words"
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Breaking the tie - O.U.T.R.O."
+    }
+  ]
+}

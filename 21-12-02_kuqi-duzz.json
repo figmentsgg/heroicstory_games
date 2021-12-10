@@ -1,0 +1,50 @@
+{
+  "heroName": "Kuqi Duzz",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Protagonist Has Ongoing Struggle - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Dream Inside - S.H.I.N.Y."
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - W.I.N.G.S."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Darkness Descends - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "What Is The Relationship Between Icarus And Kuqi - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In Plan - 7 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "VICTORY or DEFEAT - L.E.V.E.L.U.P."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned - 8 words"
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Breaking the tie - O.U.T.R.O."
+    }
+  ]
+}
